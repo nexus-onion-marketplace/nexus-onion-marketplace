@@ -2,16 +2,16 @@
 
 The **Nexus Onion Marketplace** has quickly become one of the most trusted and secure darknet platforms on the Tor network. As privacy concerns and demand for decentralization continue to grow, more users are turning to marketplaces like Nexus for anonymous and reliable transactions.
 
-[<img src="/symbols/normal.webp" width="200">](http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion)
+[<img src="/symbols/normal.webp" width="200">](http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion)
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/symbols/max.webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/symbols/max.webp" alt="image" style="max-width: 100%;"></a>
 
 
 ## What is the Nexus Onion Marketplace?
 
 The **Nexus Onion Marketplace** is a darknet market that operates exclusively on the Tor network, providing users with a highly secure and anonymous environment to trade goods and services. Whether you're a buyer or a vendor, this platform offers a trusted space to engage in transactions without compromising privacy.
 
-@ Official Link: http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
+@ Official Link: http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion
 
 ## Key Features of Nexus Onion Marketplace
 
@@ -25,7 +25,7 @@ The **Nexus Onion Marketplace** is a darknet market that operates exclusively on
 
 To access the **Nexus Onion Marketplace**, users must install the [Tor Browser](https://www.torproject.org) and visit the official Nexus onion URL. For maximum security, always verify the link from trusted sources and use a secure VPN. Activating two-factor authentication (2FA) and using PGP encryption is also recommended for account and communication protection.
 
-> Visit Nexus: http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion
+> Visit Nexus: http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion
 
 ## Why Choose Nexus Onion Marketplace Over Other Markets?
 
@@ -41,5 +41,7 @@ Stay safe, stay private — use the Nexus Onion Marketplace responsibly.
 
 *Disclaimer: This article is for educational purposes only. Accessing or using darknet marketplaces may be illegal in your jurisdiction. Always comply with local laws and regulations.*
 
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/symbols/near.webp" style="max-width: 100%;"></a>
-<a href="http://3mqcanipap7g65ebjlj3cb6cuwdvtv6zhju546aapkuqf677sgyiyqyd.onion"><img src="/symbols/see.webp" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/symbols/near.webp" style="max-width: 100%;"></a>
+<a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/symbols/see.webp" style="max-width: 100%;"></a>
+
+Update:  14 September link is reachable
