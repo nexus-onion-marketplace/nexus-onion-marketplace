@@ -44,4 +44,6 @@ Stay safe, stay private — use the Nexus Onion Marketplace responsibly.
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/symbols/near.webp" style="max-width: 100%;"></a>
 <a href="http://nexuszpgb6wzczes3jvsqeoyiuvjttjscf7nbtvkiaeqzboj3fucjcad.onion"><img src="/symbols/see.webp" style="max-width: 100%;"></a>
 
-Update:  14 September link is reachable
+
+
+Update:  09/18/2025 Fixed non-working url
