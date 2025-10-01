@@ -46,4 +46,6 @@ Stay safe, stay private — use the Nexus Onion Marketplace responsibly.
 
 
 
-Update:  09/18/2025 Fixed non-working url
+
+
+Update:  01 October 2025 Fixed unreachable link
